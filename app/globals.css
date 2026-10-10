@@ -25,7 +25,7 @@
   --color-soil: var(--soil);
   --color-soil-soft: var(--soil-soft);
   --font-sans: var(--font-outfit);
-  --font-serif: var(--font-cormorant);
+  --font-serif: var(--font-outfit);
 }
 
 * {
